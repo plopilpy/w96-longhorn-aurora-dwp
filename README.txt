@@ -1,1 +1,1 @@
-Sample file that isn't included in the target win96 install.
+The Windows Longhorn animated Aurora wallpaper, ported as a dynamic wallpaper to Windows 96.
